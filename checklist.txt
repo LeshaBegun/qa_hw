@@ -1,0 +1,8 @@
+Build:
+Environment:
+Date:
+Tested by:
+Type of tests:
+Name of checks:
+Result:
+Bug link:
